@@ -1,3 +1,3 @@
 # lloyd barrett
 
-![alt text](/artist-website/XO-1.jpeg  "Title")
+![alt text](/XO-1.jpeg  "Title")
