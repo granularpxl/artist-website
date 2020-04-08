@@ -3,4 +3,4 @@
 ![alt text](/XO-1.jpeg  "Title")
 
 
-[works](/works/)
+[works](/works.md/)
