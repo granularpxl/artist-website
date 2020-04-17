@@ -1,0 +1,103 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "LLOYD BARRETT",
+    "description": "",
+    "home_page_url": "https://lloydbarrett.com.au",
+    "feed_url": "https://lloydbarrett.com.au/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "lloyd"
+    },
+    "items": [
+        {
+            "id": "https://lloydbarrett.com.au/elbee-live-av.html",
+            "url": "https://lloydbarrett.com.au/elbee-live-av.html",
+            "title": "Elbee AV Show",
+            "summary": " A mash up of sonic improvisations morphing into studio compositions before glitching their way back into improvisations, all the while feeding data to&hellip;",
+            "content_html": "<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/QPvL0SyIW1s\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p>A mash up of sonic improvisations morphing into studio compositions before glitching their way back into improvisations, all the while feeding data to a world of geometries textured with experiments on film.</p>",
+            "image": "https://lloydbarrett.com.au/media/posts/1/Elbee-Performing-1.jpg",
+            "author": {
+                "name": "lloyd"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-06T12:01:00+10:00",
+            "date_modified": "2020-04-16T12:30:37+10:00"
+        },
+        {
+            "id": "https://lloydbarrett.com.au/spectrum.html",
+            "url": "https://lloydbarrett.com.au/spectrum.html",
+            "title": "Spectrum",
+            "summary": "Spectrum was developed in collaboration with fellow audio visual artist Kieran Warner-Hunt for Sydney's Vivid 2017 festival. The Spectrums of light and sound are often&hellip;",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://lloydbarrett.com.au/media/posts/2/gallery/Spectrum1.jpg\" ><img src=\"https://lloydbarrett.com.au/media/posts/2/gallery/Spectrum1-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://lloydbarrett.com.au/media/posts/2/gallery/Spectrum2.jpg\" ><img src=\"https://lloydbarrett.com.au/media/posts/2/gallery/Spectrum2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://lloydbarrett.com.au/media/posts/2/gallery/Spectrum3.jpg\" ><img src=\"https://lloydbarrett.com.au/media/posts/2/gallery/Spectrum3-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://lloydbarrett.com.au/media/posts/2/gallery/Spectrum4.jpg\" ><img src=\"https://lloydbarrett.com.au/media/posts/2/gallery/Spectrum4-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://lloydbarrett.com.au/media/posts/2/gallery/Spectrum6.jpg\" ><img src=\"https://lloydbarrett.com.au/media/posts/2/gallery/Spectrum6-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://lloydbarrett.com.au/media/posts/2/gallery/Spectrum7.jpg\" ><img src=\"https://lloydbarrett.com.au/media/posts/2/gallery/Spectrum7-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n</div>\n<div>Spectrum was developed in collaboration with fellow audio visual artist Kieran Warner-Hunt for Sydney's Vivid 2017 festival.</div>\n<div> </div>\n<div>The Spectrums of light and sound are often perceived as being separate entities, but in reality they have many similarities, they are both fundamentally created by the movement of particles in space. From this we can draw similarities and find overlaps between them.</div>\n<div>Spectrum is an invitation for audience members to become part of a light and sound performance and explore these relationships.</div>\n<div> </div>\n<div>Spectrum is an interactive installation of light and sound in the form of a dynamic laser sculpture and a live modular synth performance. The laser projects light beams into a smoke enclosure, making 3d forms that are derived from the synth performance. Audience members can step forward and interact with  the light sculpture using body movements and the colour of their clothing.</div>",
+            "image": "https://lloydbarrett.com.au/media/posts/2/Spectrum.jpg",
+            "author": {
+                "name": "lloyd"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-05T12:03:00+10:00",
+            "date_modified": "2019-07-30T13:25:12+10:00"
+        },
+        {
+            "id": "https://lloydbarrett.com.au/phi.html",
+            "url": "https://lloydbarrett.com.au/phi.html",
+            "title": "Phi",
+            "summary": "Phi is a kinetic sonification of the golden ratio, also known as the golden mean, devine proportion or phi, a ratio found often in&hellip;",
+            "content_html": "<iframe width=\"300\" height=\"150\" style=\"margin: 0px auto; display: block; width: 560px; height: 315px;\" src=\"https://www.youtube.com/embed/SgBYvzOIMq8?rel=0&amp;showinfo=0\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" class=\"embed-content\"></iframe>\n<div>Phi is a kinetic sonification of the golden ratio, also known as the golden mean, devine proportion or phi, a ratio found often in mathematics, geometry, nature, the human body and many other areas. Being an irrational number, it is approximately equal to 1.6180339887. The number can be arrived at by dividing numbers of the Fibonacci sequence (1, 1, 2, 3, 5, 8, 13, etc.). The further one progresses and divides along the sequence the closer the result is to the golden ratio. Phi sonifies this process in a musical way, relating the sequence of numbers to a sequence of scale degrees. With no people around Phi will play a rough approximation of the golden ratio (to 8 decimal points), as human activity gets closer to the machine it will become excited, playing a faster and more accurate approximation of the ratio (up to 32 decimal points).</div>\n<div> </div>\n<div>production: Phi was produced by retrofitting solenoids to a glockenspiel. A timber frame was constructed above the keys to mount 30 24V solenoids. Custom circuit boards were made to house the MOSFET transistors required to interface the high power solenoids with the low power output of an Arduino Mega. Max/MSP software, in combination with Maxuino and Firmata for interfacing, was used to program a dynamic sequence of numbers based on the golden ratio and convert these numbers into scale degrees. A MaxSonar proximity sensor was connected to Max via the Arduino and used to detect human distance from the work. This distance reading was then used to influence the speed and accuracy of the musical sequence.</div>",
+            "image": "https://lloydbarrett.com.au/media/posts/6/Phi-Glock2.jpg",
+            "author": {
+                "name": "lloyd"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-04T12:23:00+10:00",
+            "date_modified": "2019-07-30T13:25:18+10:00"
+        },
+        {
+            "id": "https://lloydbarrett.com.au/elbee-visions-of-vactrols.html",
+            "url": "https://lloydbarrett.com.au/elbee-visions-of-vactrols.html",
+            "title": "Visions of Vactrols",
+            "summary": " Visions of Vactrols was written late in 2013, at which point I was immersed completely in the world of sampling. Many of the&hellip;",
+            "content_html": "<p> </p>\n<p><iframe width=\"300\" height=\"150\" style=\"margin: 0px auto; display: block; width: 100%; height: 300px;\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/35572969&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true\" class=\"embed-content\"></iframe></p>\n<p>Visions of Vactrols was written late in 2013, at which point I was immersed completely in the world of sampling. Many of the tracks began as reincarnations of previous works, sampled and deformed to become something new, with the intention that they too would eventually be recycled. In comparison to my previous release, I consciously focused on using more natural sounds, incorporating stronger grooves and experimenting a lot more.</p>",
+            "image": "https://lloydbarrett.com.au/media/posts/5/Visions-of-Vactrols-Square.jpg",
+            "author": {
+                "name": "lloyd"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-03T12:21:00+10:00",
+            "date_modified": "2019-07-30T13:25:25+10:00"
+        },
+        {
+            "id": "https://lloydbarrett.com.au/orbital.html",
+            "url": "https://lloydbarrett.com.au/orbital.html",
+            "title": "Orbital",
+            "summary": " Orbital is a fortnightly radio show on Bondi Beach Radio, co-hosted with artist and fellow music enthusiast Nik Fayard.",
+            "content_html": "<p><iframe width=\"300\" height=\"150\" style=\"margin: 0px auto; display: block; width: 100%; height: 300px;\" scrolling=\"no\" frameborder=\"no\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/279491843&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true\" class=\"embed-content\"></iframe></p>\n<p>Orbital is a fortnightly radio show on Bondi Beach Radio, co-hosted with artist and fellow music enthusiast Nik Fayard.</p>",
+            "image": "https://lloydbarrett.com.au/media/posts/7/Orbital_logo.jpg",
+            "author": {
+                "name": "lloyd"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-02T12:24:00+10:00",
+            "date_modified": "2020-04-16T12:03:08+10:00"
+        },
+        {
+            "id": "https://lloydbarrett.com.au/clothing-crisis.html",
+            "url": "https://lloydbarrett.com.au/clothing-crisis.html",
+            "title": "Clothing Crisis",
+            "summary": "In collaboration with fashion designer Erica Deluchi and media artists Tara Pearson and Andrew BurrellClothing Crisis is a wearable artwork exhibited through performance that&hellip;",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://lloydbarrett.com.au/media/posts/4/gallery/Clothing-Crisis7.jpg\" ><img src=\"https://lloydbarrett.com.au/media/posts/4/gallery/Clothing-Crisis7-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://lloydbarrett.com.au/media/posts/4/gallery/Clothing-Crisis11.jpg\" ><img src=\"https://lloydbarrett.com.au/media/posts/4/gallery/Clothing-Crisis11-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://lloydbarrett.com.au/media/posts/4/gallery/Clothing-Crisis10.jpg\" ><img src=\"https://lloydbarrett.com.au/media/posts/4/gallery/Clothing-Crisis10-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://lloydbarrett.com.au/media/posts/4/gallery/Clothing-Crisis6.jpg\" ><img src=\"https://lloydbarrett.com.au/media/posts/4/gallery/Clothing-Crisis6-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n</div>\n<div>In collaboration with fashion designer Erica Deluchi and media artists Tara Pearson and Andrew Burrell</div>\n<div>Clothing Crisis is a wearable artwork exhibited through performance that aims to highlight, interrogate and ultimately take advantage of the invisible data networks that surround us. By collecting and repurposing a twitter data stream that exposes fashion anxieties, a system is created from which emerges a generative conversation between audience and artwork. The work is realized as an illuminated garment yelling tweets, and is constructed containing elements of unworn clothing collected from people’s wardrobes. It is an exploration into clothing excess that reinterprets traditional items of clothing.</div>\n<p><iframe width=\"300\" height=\"150\" style=\"margin: 0px auto; display: block; width: 560px; height: 315px;\" src=\"https://www.youtube.com/embed/6lhCR4SKq5g?rel=0&amp;showinfo=0\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" class=\"embed-content\"></iframe><br ><br></p>",
+            "image": "https://lloydbarrett.com.au/media/posts/4/Clothing-Crisis10.jpg",
+            "author": {
+                "name": "lloyd"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-07-01T12:09:00+10:00",
+            "date_modified": "2019-07-30T13:27:33+10:00"
+        }
+    ]
+}
